@@ -21,4 +21,7 @@ node app..js
 ## or if you installed nodemon
 nodemon app.js
 
+## then access the swagger for API documentation and testing
+http://localhost:3000/ims/docs
+
 ## JERALD VAILOCES
