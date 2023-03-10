@@ -3,8 +3,10 @@
 <!-- IMS Home Phone Subscriber Service -->
 
 ## run the creation of Database and table Subscriber first
-## run npm i
-
+SQL file for local setup / QueryForLocalDBCreation.sql
+copy and run the query to you MySQL Workbench
+## run npm install
+npm i
 ## create a .env file and insert the following:
 PORT = 3000
 # Database Credentials
