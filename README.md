@@ -9,7 +9,6 @@ copy and run the query to you MySQL Workbench
 npm i
 ## create a .env file and insert the following:
 PORT = 3000
-# Database Credentials
 DB_HOST="localhost"
 DB_USER="root"
 DB_PASSWORD="root"
