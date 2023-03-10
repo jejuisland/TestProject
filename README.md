@@ -16,7 +16,7 @@ DB_NAME="ims_db"
 DB_PORT=3307
 DATABASE_URL="mysql://root:root@localhost:3307/ims_db"
 
-## then into run this command into your terminal:
+## then run this command into your terminal:
 node app..js
 
 ## or if you installed nodemon
